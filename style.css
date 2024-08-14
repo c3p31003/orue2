@@ -1,6 +1,9 @@
 /* 全体 */
 
 /* ヘッダー */
+img {
+  width: 40%;
+}
 ul {
   list-style: none;
   text-align: center;
